@@ -3,7 +3,8 @@ title: "Enunciados"
 output: html_document
 date: "2023-10-14"
 ---
-Problema 1
+
+1.Problema 1:
 
 Somos un inversor que debe tomar decisiones sobre cuatro posibles inversiones, representadas como decisiones (d1, d2, d3, d4), con cuatro eventos (E1, E2, E3, E4). Aplicar los criterios de decision bajo incertidumbre tanto en el caso favorable (beneficios), como en el caso desfavorable (costos).
 

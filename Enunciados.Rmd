@@ -8,17 +8,17 @@ date: "2023-10-14"
 
 Somos un inversor que debe tomar decisiones sobre cuatro posibles inversiones, representadas como decisiones (d1, d2, d3, d4), con cuatro eventos (E1, E2, E3, E4). Aplicar los criterios de decision bajo incertidumbre tanto en el caso favorable (beneficios), como en el caso desfavorable (costos).
 
-+-------------------+---+
-|   | E1 | E2 | E3 | E4 |
-+-------------------+---+
-| d1| 30 | -5 | 20 | 28 |
-| d2| 20 | 22 | 25 | -8 |
-| d3|  5 | 18 | 12 | 14 |
-| d4| 25 | 24 | 0  | 26 |
-+-------------------+---+
+
+   | E1 | E2 | E3 | E4 |
+
+ d1| 30 | -5 | 20 | 28 |
+ d2| 20 | 22 | 25 | -8 |
+ d3|  5 | 18 | 12 | 14 |
+ d4| 25 | 24 | 0  | 26 |
 
 
-Problema 2
+
+2.Problema 2: 
 
 
 Lyre quiere unirse a un gimnasio y ha investigado tres opciones de membresía. Cada membresía tiene sus propias condiciones y costos asociados:
